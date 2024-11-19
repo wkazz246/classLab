@@ -20,4 +20,4 @@ jobs:
         with:
           context: classLab/
           push: true
-          tags: wkazz246/classLab:${{github.run_number}}
+          tags: wkazz246/classlab:${{github.run_number}}
